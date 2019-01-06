@@ -1,2 +1,2 @@
-# automation_testing
-Selenium,Test NG,Rest Assured,Java 
+# selenium
+Selenium practice code 
